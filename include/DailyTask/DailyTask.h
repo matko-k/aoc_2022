@@ -1,5 +1,5 @@
-#ifndef AOC2021_DAILYTASK_H
-#define AOC2021_DAILYTASK_H
+#ifndef DAILYTASK_H
+#define DAILYTASK_H
 
 #include <iostream>
 #include <stdio.h>
@@ -28,4 +28,4 @@ private:
     std::string task_description_;
 };
 
-#endif //AOC2021_DAILYTASK_H
+#endif //DAILYTASK_H

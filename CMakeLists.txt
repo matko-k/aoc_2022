@@ -7,3 +7,4 @@ include_directories(include)
 
 add_executable(${PROJECT_NAME}_dt01 src/daily_task_01.cpp)
 add_executable(${PROJECT_NAME}_dt02 src/daily_task_02.cpp)
+add_executable(${PROJECT_NAME}_dt03 src/daily_task_03.cpp)

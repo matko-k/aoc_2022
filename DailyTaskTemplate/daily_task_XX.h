@@ -1,5 +1,5 @@
-#ifndef AOC2021_DAILY_TASK_XX_H
-#define AOC2021_DAILY_TASK_XX_H
+#ifndef DAILY_TASK_XX_H
+#define DAILY_TASK_XX_H
 
 #include <DailyTask/DailyTask.h>
 
@@ -11,4 +11,4 @@ public:
   virtual void part2();
 };
 
-#endif // AOC2021_DAILY_TASK_XX_H
+#endif // DAILY_TASK_XX_H

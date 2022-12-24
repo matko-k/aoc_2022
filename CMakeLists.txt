@@ -23,7 +23,7 @@ add_executable(${PROJECT_NAME}_dt15 src/daily_task_15.cpp)
 
 add_executable(${PROJECT_NAME}_dt17 src/daily_task_17.cpp)
 add_executable(${PROJECT_NAME}_dt18 src/daily_task_18.cpp)
-
+add_executable(${PROJECT_NAME}_dt19 src/daily_task_19.cpp)
 add_executable(${PROJECT_NAME}_dt20 src/daily_task_20.cpp)
 add_executable(${PROJECT_NAME}_dt21 src/daily_task_21.cpp)
 add_executable(${PROJECT_NAME}_dt22 src/daily_task_22.cpp)
